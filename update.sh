@@ -66,6 +66,8 @@ declare -a repos=("https://github.com/Lokaltog/vim-powerline.git"
   "https://github.com/vim-scripts/keepcase.vim.git"
   "https://github.com/vim-scripts/lighttpd-syntax.git"
   "https://github.com/vim-scripts/oceandeep.git"
+  "https://github.com/sjl/gundo.vim.git"
+  "https://github.com/rking/ag.vim.git"
   "https://github.com/wavded/vim-stylus.git")
 
 # Here's a list of everything else to download in the format
