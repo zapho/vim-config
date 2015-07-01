@@ -1,5 +1,10 @@
 call pathogen#infect()
 filetype indent on      " load filetype-specific indent files
+
+" vim.mirror, see https://github.com/zenbro/mirror.vim#installation
+set nocompatible    " disable backward compatibility with Vi
+filetype plugin on  " plugins are enabled
+
 set wildmenu            " visual autocomplete for command menu
 set showmatch           " highlight matching [{()}]
 
